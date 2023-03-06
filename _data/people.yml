@@ -1,0 +1,69 @@
+# NOTES
+# Individuals have been split up into sections "FACULTY", "POSTDOCS", "PHDS", "MSCS", and "VISITORS"
+# Research interests/areas of focus should be put under "info"
+# To insert line breaks in the "info" section of any individual, place the text in within a " " and insert \n wherever you need a line break.
+# Where applicable, include the full URL to any individual's personal page in "link".  If they do not have a personal page, leave that space blank or input a "#".
+# Please upload profile photos to the directory "/assets/images/profiles", then input the exact file name and extension under "img"
+
+# FACULTY
+faculty:
+  - name: Nishikant Mohapatra
+    info: State Convener and National Spokes Person
+    link: https://www.facebook.com/nishikanta.mohapatra.1
+    img: nishikant.jpeg
+
+  - name: Virender Singh Kadian
+    info: Member of the Legislative Assembly (MLA) and Odisha state incharge
+    link: https://www.facebook.com/virender.kadian.35
+    img: kadiyan.jpeg
+
+  - name: Soumya Swain 
+    info: State General Secretary
+    link: https://www.facebook.com/som.swain
+    img: Soumya.jpeg
+
+# POSTDOCS
+postdocs:
+  - name: Binay Tiwary
+    info: "Sundargarh Convenor"
+    link: https://www.facebook.com/AAPBinayTiwaryOfficial
+    img: papaji.jpeg
+
+  - name: Ashish Pande
+    info: "Balangir Convenor"
+    link: https://www.facebook.com/profile.php?id=100063756319340
+    img: ashishPande.jpeg
+
+
+# PHDS
+phds:
+  - name: Rangacharan Pradhan
+    info: "State Spokesperson"
+    link: https://www.facebook.com/rangacharan.pradhan
+    img: rangacharanPradhan.jpeg
+
+#MSCS
+mscs:
+  - name: Chintamani Mahananda
+    info: State and Sundargarh Social Media Coordinator
+    link: https://www.facebook.com/profile.php?id=100073078745840
+    img: chintamani.jpeg
+
+#UNDERGRADUATES
+#undergrads:
+#  - name: Ilias Karimalis
+#    info: "System Synthesis\nMachine Learning"
+#    link: https://www.linkedin.com/in/ilias-karimalis-b034b3172/
+#    img: ilias.jpeg
+#
+##RESEARCH STAFF
+#researchers:
+#  - name: Phoenix Synkova
+#    info: "Fine-grain file system design\nSystem synthesis"
+#    link: #
+#    img: phoenix.jpg
+#
+#  - name: Petal Vitis
+#    info: "Cyber-Physical Systems\nRobot Operating System"
+#    link: https://www.linkedin.com/in/petalv/
+#    img: petalv.jpg

@@ -1,0 +1,199 @@
+# NOTES
+# News items have been subdivided into the sections "PAPERS & POSTERS", "TALKS", and "INTERNSHIPS"
+
+# PAPERS & POSTERS
+# If the title of the publication has a :, please put the entire title inside quotation marks.
+# Authors should each be separated by a comma. Do not include a period at the end.
+# Please place the description for under "Info", and put the contents inside quotation marks.
+
+# TALKS
+# If there is a separate link for the video, put it in "video-link"
+
+talks:
+  - title: "Imposter Syndrome, Stupid Questions, and Eight (+/-2) Problems I Need your Help With"
+    speaker: Margo Seltzer
+    event: PLDI 2022
+    link: https://pldi22.sigplan.org/
+    video-link: https://www.youtube.com/watch?v=I5pzeABShv4
+  - title: "When Databases met UNIX: A Love Affair"
+    speaker: Margo Seltzer
+    event: John Lions Distinguished Lectures
+    link: https://www.eventbrite.com.au/e/john-lions-distinguished-lectures-registration-148855186871?aff=UNSWEvents
+    video-link: https://www.youtube.com/watch?v=2YFeAyddMvw&t=8s
+
+  - title: "Caching: It's not just about Data"
+    speaker: Margo Seltzer
+    event: MPI-SWS Distinguished Lecture Series
+    link: https://www.mpi-sws.org/events/2021/
+
+  - title: "Data Lineage and its Applications"
+    speaker: Margo Seltzer
+    event: Netapp Technical Talk
+
+  - title: "An NVM Carol"
+    speaker: Margo Seltzer
+    event: COMPASS Talk at ETH Zurich
+    link: https://systems.ethz.ch/research/compass/an-nvm-carol--visions-of-nvm-past--present--and-future----dateth.html
+
+  - title: "UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats"
+    speaker: Xueyuan (Michael) Han
+    event: 2020 NDSS
+    link: https://tfjmp.org/publications/2020-ndss.pdf
+    video-link: https://www.youtube.com/watch?v=B9ACkb320s0&ab_channel=NDSSSymposium
+
+  - title: "Xanthus: Push-button Orchestration of Host Provenance Data Collection"
+    speaker: Xueyuan (Michael) Han
+    event: 2020 ACM International Workshop on Practical Reproducible Evaluation of Systems
+    link: https://tfjmp.org/publications/2020-precs.pdf
+    video-link: https://youtu.be/50PpVxcy5WM?t=4017
+
+awards:
+  - name: Top 20 Canadian Women in Cyber Security
+    awardee: Margo Seltzer
+    date: 2021
+    link: https://www.itworldcanada.com/article/top-women-in-cyber-security-celebration-2021-honouree-roundup/456448
+
+  - name: 2021 SIGBED Paul Caspi Memorial Dissertation Award 
+    awardee: Arpan Gujarati
+    date: 2021
+    link: https://sigbed.org/2020/12/22/paul-caspi-dissertation-award-21/
+
+  - name: Election to the American Academy of Arts and Sciences
+    awardee: Margo Seltzer
+    date: 2021
+    link: https://www.amacad.org/news/2021-member-announcement
+
+  - name: Canada Graduate Scholarship -- Master's Program
+    awardee: Alex Trostanovsky
+    date: 2021
+
+  - name: ACM Software System Award
+    awardee: Margo Seltzer
+    date: 2020
+    link: https://www.cs.ubc.ca/news/2021/05/acm-software-systems-award-given-margo-seltzer
+
+  - name: ACM SIGMOD Systems Award
+    awardee: Margo Seltzer
+    date: 2020
+    link: https://sigmod.org/sigmod-awards/sigmod-systems-award/
+
+papers-posters:
+  - title: "Compiling Distributed System Models with PGo"
+    authors: Finn Hackett, Shayan Hosseini, Renato Costa, Matthew Do, Ivan Beschastnikh
+    publisher: ASPLOS 2023
+    
+  - title: "Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction"
+    authors: Ali Behrouz, Margo Seltzer
+    publisher: NeurIPS 2022 TGL Workshop  
+    
+  - title: "Fast Optimization of Weighted Sparse Decision Trees for use in Optimal Treatment Regimes and Optimal Policy Design"
+    authors: Ali Behrouz, Mathias Lécuyer, Cynthia Rudin, Margo Seltzer
+    publisher: AIMLAI 2022  
+    link: https://arxiv.org/pdf/2210.06825.pdf
+  
+  - title: "CS-MLGCN: Multiplex Graph Convolutional Networks for Community Search in Multiplex Networks"
+    authors: Ali Behrouz, Farnoosh Hashemi
+    publisher: CIKM 2022  
+    link: https://dl.acm.org/doi/10.1145/3511808.3557572
+  
+  - title: "FirmTruss Community Search in Multilayer Networks"
+    authors: Ali Behrouz, Farnoosh Hashemi, Laks V.S. Lakshmanan
+    publisher: VLDB 2023
+    link: https://arxiv.org/pdf/2205.00742.pdf
+
+  - title: "In-ConcReTeS: Interactive Consistency meets Distributed Real-Time Systems, Again!"
+    authors: Arpan Gujarati, Ningfeng Yang, Björn B. Brandenburg
+    publisher: RTSS 2022
+    link: https://arpangujarati.github.io/pdfs/rtss2022_paper.pdf
+    
+  - title: "The Fault in Our Data Stars: Studying Mitigation Techniques against Faulty Training Data in Machine Learning Applications"
+    authors: Abraham Chan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan
+    publisher: DSN 2022
+    link: https://arpangujarati.github.io/pdfs/dsn2022_paper_b.pdf
+    
+  - title: "Arming IDS Researchers with a Robotic Arm Dataset"
+    authors: Arpan Gujarati, Zainab Saeed Wattoo, Maryam Aliabadi, Sean Clark, Xiaoman Liu, Parisa Shiri, Amee Trivedi, Ruizhe Zhu, Jason Hein, Margo Seltzer
+    publisher: DSN 2022
+    link: https://arpangujarati.github.io/pdfs/dsn2022_paper_a.pdf
+    
+  - title: "FirmCore Decomposition of Multilayer Networks"
+    authors: Farnoosh Hashemi, Ali Behrouz, Laks V.S. Lakshmanan
+    publisher: WWW 2022
+ 
+  - title: "Fast Sparse Logistic Regression: New Techniques for Generalized Linear and Additive Models Using Quadratic Cuts and Dynamic Feature Ordering"
+    authors: Jiachang Liu, Chudi Zhong, Cynthia Rudin, Margo Seltzer
+    publisher: AISTATS 2022
+    link: https://arxiv.org/abs/2202.11389
+
+  - title: "Fast Sparse Decision Tree Optimization via Reference Ensembles"
+    authors: Hayden McTavish, Chudi Zhong, Reto Achermann, Ilias Karimalis, Jacques Chen, Cynthia Rudin, Margo Seltzer
+    publisher: AAAI 2022
+    link: https://www.youtube.com/watch?v=x8ljsnJGNoM&list=PLUK-zopeIqLrW_e3SJ37vcCbS4FohDd8Z&index=2
+
+  - title: "Macchiato: Importing Cache Side Channels to SDNs"
+    authors: Amir Sabzi, Liron Schif, Kashyap Thimmaraju, Andreas Blenk, Stefan Schmid
+    publisher: ANCS 2021. Best Paper Award
+    link: https://dl.acm.org/doi/pdf/10.1145/3493425.3502758
+
+ 
+  - title: "Understanding the Resilience of Neural Network Ensembles against Faulty Training Data"
+    authors: Abraham Chan, Niranjhana Narayanan, Arpan Gujarati, Karthik Pattabiraman, Sathish Gopalakrishnan
+    publisher: QRS 2021. Best Paper Award
+    link: https://arpangujarati.github.io/pdfs/qrs2021_paper.pdf
+
+  - title: "ARTINALI#: An Efficient Intrusion Detection Technique for Resource-Constrained Cyber-Physical Systems"
+    authors: Maryam Raiyat Aliabadi, Margo Seltzer, Mojtaba Vahidi Asl, Ramak Ghavamizadeh
+    publisher: IJCIP 2021
+    link: https://www.sciencedirect.com/science/article/abs/pii/S1874548221000226
+
+  - title: "SIGL: Securing Software Installations Through Deep Graph Learning"
+    authors: X Han, X Yu, T Pasquier, D Li, J Rhee, J Mickens, M Seltzer, C Haifeng
+    publisher: USENIX Security 2020
+    link: https://tfjmp.org/publications/2021-usenixsec.pdf
+
+  - title: Parking Packet Payload with P4
+    authors: Swati Goswami, Nodir Kodirov, Craig Mustard, Ivan Beschastnikh, Margo Seltzer
+    publisher: CoNEXT 2020
+    link: https://dl.acm.org/doi/abs/10.1145/3386367.3431295
+
+  - title: To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics
+    authors: Ayat Fekry, Lucian Carata, Thomas Pasquier, Andrew Rice, Andy Hopper
+    publisher: KDD 2020
+    link: https://tfjmp.org/publications/2020-kdd.pdf
+
+  - title: Scalable constraint-based virtual data center allocation
+    authors: Sam Bayless, Nodir Kodirov, Syed M. Iqbal, Ivan Beschastnikh, Holger H. Hoos, Alan J. Hu
+    publisher: Artificial Intelligence Journal (AIJ) 2020
+    link: https://www.cs.ubc.ca/~bestchai/papers/aij19-netsolver.pdf
+
+  - title: Unexpected Performance of Intel® Optane™ DC Persistent Memory
+    authors: Tony Mason, Thaleia Dimitra Doudali, Margo Seltzer, Ada Gavrilovska
+    publisher: IEEE Computer Architecture Letters 2020
+    link: https://ieeexplore.ieee.org/document/9072482
+
+# INTERNSHIPS
+# If applicable, add a link to the internship organization under "org-link"
+
+internships:
+
+  - date: Summer 2022
+    internship:
+      - intern: Shayan Hosseini
+        organization: Microsoft Research, Networking Research Group
+        org-link: https://www.microsoft.com/en-us/research/group/networking-research/
+      - intern: Sid Agrawal
+        organization: ARM Research
+        org-link: https://www.arm.com/resources/research
+
+  - date: Summer 2021
+    internship:
+      - intern: Swati Goswami
+        organization: Microsoft Research, Systems Research Group
+        org-link: https://www.microsoft.com/en-us/research/group/systems-research-group-redmond/
+
+  - date: Summer 2021
+    internship:
+      - intern: Joseph Wonsil
+        organization: Oracle Labs
+        org-link: https://labs.oracle.com/pls/apex/labs/r/labs/intro?session=2206028989300
+

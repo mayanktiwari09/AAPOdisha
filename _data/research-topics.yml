@@ -1,0 +1,13 @@
+# NOTES
+# If you plan on including quotation marks, colons, or other special punctuation in your description/title, please enclose the text in quotation marks.
+# "url" is used to
+
+- topic: Kanak News
+  description: Kanak News in Odisha invites AAP team to discuss several issues.
+  tag: kanak_news
+- topic: OTV News
+  description: OTV News in Odisha invites AAP team to discuss several issues.
+  tag: otv_news
+- topic: Facebook Live
+  description: We often use Facebook live to raise a variety of issues. 
+  tag: sm

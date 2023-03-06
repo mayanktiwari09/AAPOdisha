@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-06T15:02:09-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Shellac</title><link href="http://localhost:4000/shellac" rel="alternate" type="text/html" title="Shellac" /><published>2022-11-04T14:10:00-07:00</published><updated>2022-11-04T14:10:00-07:00</updated><id>http://localhost:4000/shellac</id><content type="html" xml:base="http://localhost:4000/shellac">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;p&gt;
+	Formal specification languages such as TLA+ and unity are used to design and verify concurrent programs. These languages are intended for analysis rather than for execution. A compiler or a human must implement the specified program in a lower-level executable language. We present Shellac, a synthesized compiler from unity to Arduino C++ and Verilog. The approach is essentially syntax-directed translation, where the translation rules are automatically generated via program synthesis. This approach produces a correct-by-construction compiler without burdening the compiler writer with manual specification and verification. We evaluate Shellac by compiling Paxos consensus in unity to implementations in Arduino C++ for microcontrollers and Verilog for reconfigurable hardware.
+	&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+        &lt;p&gt;Venue: Presented at &lt;a href=&quot;https://vstte22.fbk.eu/&quot;&gt;VSTTE 2022&lt;/a&gt;: 14th International Conference on Verified Software: Theories, Tools, and Experiments
+	&lt;/p&gt;
+	&lt;p&gt;Artifacts: Source code is &lt;a href=&quot;https://github.com/chchen/shellac-can&quot;&gt;available&lt;/a&gt;.
+	&lt;/p&gt;
+        &lt;p&gt;People:
+	&lt;a href=&quot;https://github.com/chchen&quot;&gt;Christopher Chen&lt;/a&gt;,
+	&lt;a href=&quot;https://www.cs.ubc.ca/~mrg/&quot;&gt;Mark Greenstreet&lt;/a&gt;,
+	&lt;a href=&quot;https://www.seltzer.com/margo/&quot;&gt;Margo Selzer&lt;/a&gt;
+	&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;</content><author><name></name></author><category term="velosity" /><summary type="html">Formal specification languages such as TLA+ and unity are used to design and verify concurrent programs. These languages are intended for analysis rather than for execution. A compiler or a human must implement the specified program in a lower-level executable language. We present Shellac, a synthesized compiler from unity to Arduino C++ and Verilog. The approach is essentially syntax-directed translation, where the translation rules are automatically generated via program synthesis. This approach produces a correct-by-construction compiler without burdening the compiler writer with manual specification and verification. We evaluate Shellac by compiling Paxos consensus in unity to implementations in Arduino C++ for microcontrollers and Verilog for reconfigurable hardware. Additional Information Venue: Presented at VSTTE 2022: 14th International Conference on Verified Software: Theories, Tools, and Experiments Artifacts: Source code is available. People: Christopher Chen, Mark Greenstreet, Margo Selzer</summary></entry><entry><title type="html">Privtrust</title><link href="http://localhost:4000/privtrust" rel="alternate" type="text/html" title="Privtrust" /><published>2020-11-09T11:02:24-08:00</published><updated>2020-11-09T11:02:24-08:00</updated><id>http://localhost:4000/privtrust</id><content type="html" xml:base="http://localhost:4000/privtrust">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;p&gt;
+We often think of privacy like secrecy. We want to keep our
+information safe and out of the eyes of others. But privacy is just as
+much about trust: who do we want to share our information with and
+why? This project looks at the emotional and social dynamics of
+privacy and trust in intimate relationships, when people want to give
+each other access to sensitive information, and inspects the social
+norms and expectations that enable intimate trusting relationships
+between parents, friends, children, and partners in a digital realm.
+	&lt;/p&gt;
+	&lt;p&gt;
+Our group has previously considered several other aspects of this
+topic in the context of social insider attacks. In Vulnerability &amp;amp;
+Blame: Making Sense of Unauthorized Access to Smartphones (CHI’19),
+and Characterizing Social Insider Attacks on Facebook (CHI’17), we
+examined stories from people whose partners and friends violated their
+trust and accessed their phones and applications without
+permission. We found that people wanted to be vulnerable within their
+intimate relationships as a way to build trust, but that such trust
+was seriously and commonly abused—often with severe consequences. Now,
+we are extending that work to see how people with intersecting
+identities (e.g., sexuality, age, cultural background) navigate the
+conflicting value systems of their different worlds when sharing their
+digital lives.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+        &lt;p&gt;People: Paul Bucci, Faqia Iqbal&lt;/p&gt;
+      	&lt;p&gt;&lt;a href=&quot;https://www.cs.ubc.ca/~bestchai/papers/chi2019-unauth-smartphone-access.pdf&quot;&gt;Vulnerability &amp;amp; Blame: Making Sense of Unauthorized Access to Smartphones&lt;/a&gt; (CHI’19)&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&quot;https://www.cs.ubc.ca/~bestchai/papers/social-insider-chi17.pdf&quot;&gt;Characterizing Social Insider Attacks on Facebook&lt;/a&gt; (CHI’17)&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;</content><author><name></name></author><category term="privacy" /><summary type="html">We often think of privacy like secrecy. We want to keep our information safe and out of the eyes of others. But privacy is just as much about trust: who do we want to share our information with and why? This project looks at the emotional and social dynamics of privacy and trust in intimate relationships, when people want to give each other access to sensitive information, and inspects the social norms and expectations that enable intimate trusting relationships between parents, friends, children, and partners in a digital realm. Our group has previously considered several other aspects of this topic in the context of social insider attacks. In Vulnerability &amp;amp; Blame: Making Sense of Unauthorized Access to Smartphones (CHI’19), and Characterizing Social Insider Attacks on Facebook (CHI’17), we examined stories from people whose partners and friends violated their trust and accessed their phones and applications without permission. We found that people wanted to be vulnerable within their intimate relationships as a way to build trust, but that such trust was seriously and commonly abused—often with severe consequences. Now, we are extending that work to see how people with intersecting identities (e.g., sexuality, age, cultural background) navigate the conflicting value systems of their different worlds when sharing their digital lives. Additional Information People: Paul Bucci, Faqia Iqbal Vulnerability &amp;amp; Blame: Making Sense of Unauthorized Access to Smartphones (CHI’19) Characterizing Social Insider Attacks on Facebook (CHI’17)</summary></entry><entry><title type="html">Pgo</title><link href="http://localhost:4000/pgo" rel="alternate" type="text/html" title="Pgo" /><published>2020-11-09T11:02:24-08:00</published><updated>2020-11-09T11:02:24-08:00</updated><id>http://localhost:4000/pgo</id><content type="html" xml:base="http://localhost:4000/pgo">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;p&gt;
+Distributed systems are difficult to engineer - they are subject to
+subtle communication semantics, complex interleavings, and failure
+scenarios that cannot happen within a single system. Tools and
+modeling languages, such as PlusCal and TLA+, are available to help
+developers and architects give a high-level description of a system,
+then perform logic on that system, be that via user-guided formal
+proofs or systematic exploration via model checking. A common problem
+is that corresponding such models to a practical implementation, a
+complex and time-consuming process that can introduce bugs to an
+otherwise abstractly correct system, is left up to the developer.
+	&lt;/p&gt;
+	&lt;p&gt;
+PGo compiles PlusCal formal specifications into Go
+implementations. PGo is designed to reduce the developer burden of
+implementing a correct distributed system specification, and increases
+developers' confidence in the correctness of their implementations.
+&lt;br /&gt;
+&lt;img src=&quot;../assets/logos/piggo.svg&quot; alt=&quot;PGo logo&quot; style=&quot;width: 5em; height: 5em; vertical-align: middle; display:block&quot; /&gt;
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+	&lt;p&gt;&lt;a href=&quot;https://github.com/UBC-NSS/pgo&quot;&gt;PGo implementation&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;People: &lt;a href=&quot;http://fhackett.github.io/&quot;&gt;Finn Hackett&lt;/a&gt;, &lt;a href=&quot;http://shayanh.ir&quot;&gt;Shayan Hosseini&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;</content><author><name></name></author><category term="software_engineering" /><summary type="html">Distributed systems are difficult to engineer - they are subject to subtle communication semantics, complex interleavings, and failure scenarios that cannot happen within a single system. Tools and modeling languages, such as PlusCal and TLA+, are available to help developers and architects give a high-level description of a system, then perform logic on that system, be that via user-guided formal proofs or systematic exploration via model checking. A common problem is that corresponding such models to a practical implementation, a complex and time-consuming process that can introduce bugs to an otherwise abstractly correct system, is left up to the developer. PGo compiles PlusCal formal specifications into Go implementations. PGo is designed to reduce the developer burden of implementing a correct distributed system specification, and increases developers' confidence in the correctness of their implementations. Additional Information PGo implementation People: Finn Hackett, Shayan Hosseini</summary></entry><entry><title type="html">Diffprivcache</title><link href="http://localhost:4000/diffprivcache" rel="alternate" type="text/html" title="Diffprivcache" /><published>2020-11-09T11:02:24-08:00</published><updated>2020-11-09T11:02:24-08:00</updated><id>http://localhost:4000/diffprivcache</id><content type="html" xml:base="http://localhost:4000/diffprivcache">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;p&gt;
+Differential privacy (DP) is a privacy definition that provides robust
+and formal guarantees. It ensures that the removal or addition of a
+database record affects the outcome of a query result only by a small
+amount and prevents an adversary from combining DP data with side
+information to reveal sensitive information. Unfortunately, with
+differential privacy, each successive query to a dataset increases the
+privacy loss. When the privacy loss reaches a certain threshold, the
+privacy &quot;budget&quot; is depleted and no more queries can be issued without
+a privacy risk.
+	&lt;/p&gt;
+	&lt;p&gt;
+In this project, we are designing a smart cache that uses a synthetic
+dataset to allow users to issue more queries to a data analytics
+system before depleting the budget. Our system answers new queries
+using synthetic data and real data. We release the answer computed
+from the fake data and do not consume our budget if the result from
+the synthetic dataset successfully approximates the real answer. On
+the other hand, we fall back to the real dataset and consume our
+privacy budget when the synthetic result is inaccurate. A miss
+triggers an optimization procedure where we update weights in the
+synthetic dataset to improve the answers from queries that cause a
+miss. The smart cache is developed in the context of the &lt;a href=&quot;https://leap-project.github.io/&quot;&gt;LEAP project&lt;/a&gt;,
+where the goal is to use machine learning and privacy advances to
+improve healthcare.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+        &lt;p&gt;People: Matheus Stolet&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;</content><author><name></name></author><category term="privacy" /><summary type="html">Differential privacy (DP) is a privacy definition that provides robust and formal guarantees. It ensures that the removal or addition of a database record affects the outcome of a query result only by a small amount and prevents an adversary from combining DP data with side information to reveal sensitive information. Unfortunately, with differential privacy, each successive query to a dataset increases the privacy loss. When the privacy loss reaches a certain threshold, the privacy &quot;budget&quot; is depleted and no more queries can be issued without a privacy risk. In this project, we are designing a smart cache that uses a synthetic dataset to allow users to issue more queries to a data analytics system before depleting the budget. Our system answers new queries using synthetic data and real data. We release the answer computed from the fake data and do not consume our budget if the result from the synthetic dataset successfully approximates the real answer. On the other hand, we fall back to the real dataset and consume our privacy budget when the synthetic result is inaccurate. A miss triggers an optimization procedure where we update weights in the synthetic dataset to improve the answers from queries that cause a miss. The smart cache is developed in the context of the LEAP project, where the goal is to use machine learning and privacy advances to improve healthcare. Additional Information People: Matheus Stolet</summary></entry><entry><title type="html">Bchainpriv</title><link href="http://localhost:4000/bchainpriv" rel="alternate" type="text/html" title="Bchainpriv" /><published>2020-11-09T11:02:24-08:00</published><updated>2020-11-09T11:02:24-08:00</updated><id>http://localhost:4000/bchainpriv</id><content type="html" xml:base="http://localhost:4000/bchainpriv">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;p&gt;
+Blockchain-based networks are often concerned with privacy. Two common
+types of privacy in blockchain networks are (1) transaction source
+privacy, and (2) transaction content privacy. Research has shown that
+Bitcoin, the most prominent cryptocurrency, cannot easily provide
+these privacy types. Hence, new protocols have been proposed. For
+example, Dandelion++ is a solution to the source privacy vulnerability
+in Bitcoin.
+&lt;/p&gt;
+&lt;p&gt;
+Practical systems, however, need to provide multiple privacy
+guarantees at the same time. To the best of our knowledge, source
+privacy and content privacy have not been considered simultaneously in
+the literature. Moreover, we conjecture that the cryptocurrency
+protocols, such as those that use a Dandelion++ network design for
+transaction content privacy could be susceptible to attacks against
+both types of privacy and also to performance attacks. Our focus in
+this project is on MimbleWimble-style protocols such as Beam and
+Grin. In this project, we will implement and validate different
+attacks against these existing privacy-focused protocols, and provide
+mitigations to those attacks. We will also explore the formalization
+of source and content privacy to better understand their relationship.
+&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+        &lt;p&gt;People: Seyed Ali Tabatabaee&lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;</content><author><name></name></author><category term="privacy" /><summary type="html">Blockchain-based networks are often concerned with privacy. Two common types of privacy in blockchain networks are (1) transaction source privacy, and (2) transaction content privacy. Research has shown that Bitcoin, the most prominent cryptocurrency, cannot easily provide these privacy types. Hence, new protocols have been proposed. For example, Dandelion++ is a solution to the source privacy vulnerability in Bitcoin. Practical systems, however, need to provide multiple privacy guarantees at the same time. To the best of our knowledge, source privacy and content privacy have not been considered simultaneously in the literature. Moreover, we conjecture that the cryptocurrency protocols, such as those that use a Dandelion++ network design for transaction content privacy could be susceptible to attacks against both types of privacy and also to performance attacks. Our focus in this project is on MimbleWimble-style protocols such as Beam and Grin. In this project, we will implement and validate different attacks against these existing privacy-focused protocols, and provide mitigations to those attacks. We will also explore the formalization of source and content privacy to better understand their relationship. Additional Information People: Seyed Ali Tabatabaee</summary></entry><entry><title type="html">Sidechannels</title><link href="http://localhost:4000/sidechannels" rel="alternate" type="text/html" title="Sidechannels" /><published>2020-11-09T11:02:24-08:00</published><updated>2020-11-09T11:02:24-08:00</updated><id>http://localhost:4000/sidechannels</id><content type="html" xml:base="http://localhost:4000/sidechannels">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+      &lt;p&gt;
+        Side channels arise due to sharing of resources among mutually
+        untrusting principals. In public clouds, different tenants share CPUs,
+        caches, memory, storage, and network resources of the cloud provider.
+        A tenant's (called the victim) usage of a server's resources may be
+        correlated with its secrets; an adversarial tenant on the same server
+        can observe the victim's usage of shared resources and thereby infer the
+        victim's secrets.
+        How can tenants ensure privacy of their sensitive data and code hosted
+        in the cloud in face of such side-channel attacks?
+        Moreover, how can we design efficient side-channel mitigations in the
+        face of changing landscape of cloud architecture, where applications and
+        hardware are becoming more disaggregated, leading to increased resource sharing
+        among untrusted tenants?
+      &lt;/p&gt;
+      &lt;p&gt;
+        Our prior work has investigated fundamental principles in building
+        secure mitigations for memory (USENIX Security '17) and network
+        side-channel attacks in cloud (USENIX Security '22).
+        The key principle is to &lt;it&gt;shape&lt;/it&gt; an application's resource usage
+        pattern to make it independent of the application's secrets. Using this
+        principle we developed mitigations for applications ranging from
+        proprietary machine learning algorithms to web and video streaming
+        services, which protect the application secrets while incurring moderate
+        overheads on the application performance and resource requirements.
+        In the future, we will build more efficient, general-purpose, and
+        practical tools for mitigating side-channel attacks in serverless cloud
+        applications running on disaggregated datacenter hardware.
+      &lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+        &lt;p&gt;People: Aastha Mehta, Amir Sabzi&lt;/p&gt;
+        &lt;p&gt;
+          &lt;a href=&quot;https://arxiv.org/pdf/1908.11568.pdf&quot;&gt;
+          Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud&lt;/a&gt; (USENIX Security '22)
+        &lt;/p&gt;
+      	&lt;p&gt;
+          &lt;a href=&quot;https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_ohrimenko.pdf&quot;&gt;
+          Oblivious Multi-Party Machine Learning on Trusted Processors&lt;/a&gt; (USENIX Security '17)
+        &lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;</content><author><name></name></author><category term="privacy" /><category term="security" /><summary type="html">Side channels arise due to sharing of resources among mutually untrusting principals. In public clouds, different tenants share CPUs, caches, memory, storage, and network resources of the cloud provider. A tenant's (called the victim) usage of a server's resources may be correlated with its secrets; an adversarial tenant on the same server can observe the victim's usage of shared resources and thereby infer the victim's secrets. How can tenants ensure privacy of their sensitive data and code hosted in the cloud in face of such side-channel attacks? Moreover, how can we design efficient side-channel mitigations in the face of changing landscape of cloud architecture, where applications and hardware are becoming more disaggregated, leading to increased resource sharing among untrusted tenants? Our prior work has investigated fundamental principles in building secure mitigations for memory (USENIX Security '17) and network side-channel attacks in cloud (USENIX Security '22). The key principle is to shape an application's resource usage pattern to make it independent of the application's secrets. Using this principle we developed mitigations for applications ranging from proprietary machine learning algorithms to web and video streaming services, which protect the application secrets while incurring moderate overheads on the application performance and resource requirements. In the future, we will build more efficient, general-purpose, and practical tools for mitigating side-channel attacks in serverless cloud applications running on disaggregated datacenter hardware. Additional Information People: Aastha Mehta, Amir Sabzi Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud (USENIX Security '22) Oblivious Multi-Party Machine Learning on Trusted Processors (USENIX Security '17)</summary></entry><entry><title type="html">Tuneful</title><link href="http://localhost:4000/tuneful" rel="alternate" type="text/html" title="Tuneful" /><published>2020-11-08T11:02:24-08:00</published><updated>2020-11-08T11:02:24-08:00</updated><id>http://localhost:4000/tuneful</id><content type="html" xml:base="http://localhost:4000/tuneful">&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Papers&lt;/h6&gt;
+        &lt;ol&gt;
+            &lt;li&gt;To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics from ACM KDD 2020 &lt;a href=&quot;https://tfjmp.org/publications/2020-kdd.pdf&quot;&gt;(link)&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;Accelerating the Configuration Tuning of Big Data Analytics with Similarity-aware Multitask Bayesian Optimization from IEEE BigData 2020 &lt;a href=&quot;https://tfjmp.org/publications/2020-bigdata.pdf&quot;&gt;(link)&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;Towards Seamless Configuration Tuning of Big Data Analytics from IEEE ICDCS 2019 &lt;a href=&quot;https://tfjmp.org/publications/2019-icdcs.pdf&quot;&gt;(link)&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;h6&gt;Code&lt;/h6&gt;
+        &lt;ol&gt;
+            &lt;li&gt;&lt;a href=&quot;https://github.com/ayat-khairy/tuneful-code&quot;&gt;Tuneful source code&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;https://github.com/ayat-khairy/simtune&quot;&gt;Simtune source code&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;h6&gt;Data&lt;/h6&gt;
+        &lt;ol&gt;
+            &lt;li&gt;&lt;a href=&quot;https://github.com/ayat-khairy/tuneful-data&quot;&gt;KDD dataset&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;h6&gt;People&lt;/h6&gt;
+        &lt;ol&gt;
+          	&lt;li&gt;&lt;a href=&quot;https://tfjmp.org/&quot;&gt;Thomas Pasquier&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="self_optimize" /><summary type="html">Papers To Tune or Not to Tune? In Search of Optimal Configurations for Data Analytics from ACM KDD 2020 (link) Accelerating the Configuration Tuning of Big Data Analytics with Similarity-aware Multitask Bayesian Optimization from IEEE BigData 2020 (link) Towards Seamless Configuration Tuning of Big Data Analytics from IEEE ICDCS 2019 (link) Code Tuneful source code Simtune source code Data KDD dataset People Thomas Pasquier</summary></entry><entry><title type="html">Zoned Devices</title><link href="http://localhost:4000/zoned_devices" rel="alternate" type="text/html" title="Zoned Devices" /><published>2020-11-08T11:02:24-08:00</published><updated>2020-11-08T11:02:24-08:00</updated><id>http://localhost:4000/zoned-devices</id><content type="html" xml:base="http://localhost:4000/zoned_devices">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;h5&gt; Translation Layer for Zoned Devices &lt;/h5&gt;
+        &lt;p&gt; Shingled Magnetic Recording (SMR) drives offer higher data density at the cost of disallowing random writes. This higher density comes at a prices: all writes within large zones must be sequential. We are developing file system and storage stack architectures that best support this sequential only writes requirement.  &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt; Improving tail latency &lt;/h6&gt;
+      &lt;p&gt; Shingled Magnetic Recording (SMR) drives offer higher
+      data density at the cost of disallowing random writes. This
+      sequential writes only restriction aligns well with log-structured
+      filesystem (LFS); LFS always writes sequentially avoiding
+      read-modify-updates. However, this no-overwrite structure
+      generates invalid (dirty) data, which ultimately
+      needs to be garbage-collected (typically called cleaning in the context of LFS).
+      Historically, cleaning disrupts application IO leading to high tail latencies.
+      We investigate the methods that can reduce this latency spike.
+      &lt;/p&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+        &lt;p&gt;
+	People: Surbhi Palande
+        &lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="storage" /><summary type="html">Translation Layer for Zoned Devices Shingled Magnetic Recording (SMR) drives offer higher data density at the cost of disallowing random writes. This higher density comes at a prices: all writes within large zones must be sequential. We are developing file system and storage stack architectures that best support this sequential only writes requirement. Improving tail latency Shingled Magnetic Recording (SMR) drives offer higher data density at the cost of disallowing random writes. This sequential writes only restriction aligns well with log-structured filesystem (LFS); LFS always writes sequentially avoiding read-modify-updates. However, this no-overwrite structure generates invalid (dirty) data, which ultimately needs to be garbage-collected (typically called cleaning in the context of LFS). Historically, cleaning disrupts application IO leading to high tail latencies. We investigate the methods that can reduce this latency spike. Additional Information People: Surbhi Palande</summary></entry><entry><title type="html">Smarttuning</title><link href="http://localhost:4000/smarttuning" rel="alternate" type="text/html" title="Smarttuning" /><published>2020-11-08T11:02:24-08:00</published><updated>2020-11-08T11:02:24-08:00</updated><id>http://localhost:4000/smarttuning</id><content type="html" xml:base="http://localhost:4000/smarttuning">&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+&lt;p&gt;
+A modern cloud system, such as an application server or database,
+includes hundreds of knobs that engineers must tune to get the best
+performance out of the system. Besides, these systems are dynamic in
+different dimensions. They are continually updating its architecture
+as well as its incoming workload changes over time. Usually, the ops
+team tries to tailor all dynamics with a single and static apps
+configuration. This configuration is supposed to capture the average
+of all possible environmental and application changes. However, using
+a single and static configuration for the application-life eventually
+leads it to waste or suffer from the lack of resources. Such
+performance engineering requires expert knowledge and substantial
+time. In this project, we ask the question: can we use statistical
+methods to identify the best parameter configuration for a given
+system?
+&lt;/p&gt;
+
+&lt;p&gt;
+In collaboration with IBM, we are developing SmartTuning, a tool that
+tunes cloud applications autonomously. SmartTuning observes and
+classifies the workload flowing into the application and continually
+does proactive and continuous experimentation of the application's
+different configurations, looking for those that optimize it for the
+given workload type. SmartTuning does statistical analysis to find out
+the configuration that tailors the application best. The analysis
+considers three key aspects of the application: the previous
+configurations applied to the application, the application's
+performance measured for those different configurations, and the
+unique characteristics of the previous workloads observed flowing into
+the application. Based on these aspects, SmartTuning samples a new
+configuration that is likely to improve the application performance
+given a current workload being observed.  A key advantage of the
+SmartTuning approach is that it identifies different workloads if
+there are changes over time and adapts the configuration accordingly,
+keeping the application tuned automatically. Since SmartTuning
+observes and tunes automatically, it minimizes the need for the
+engineering team to instrument their code or try esoteric
+configuration on their environments continually to maximize the
+performance of running their application in a cost-effective manner.
+&lt;/p&gt;
+    
+    &lt;h6&gt;People&lt;/h6&gt;
+        &lt;ol&gt;
+          	&lt;li&gt;Adalberto R. Sampaio Junior&lt;/li&gt;
+            &lt;li&gt;Mayank Tiwary&lt;/li&gt;
+        &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="self_optimize" /><summary type="html">A modern cloud system, such as an application server or database, includes hundreds of knobs that engineers must tune to get the best performance out of the system. Besides, these systems are dynamic in different dimensions. They are continually updating its architecture as well as its incoming workload changes over time. Usually, the ops team tries to tailor all dynamics with a single and static apps configuration. This configuration is supposed to capture the average of all possible environmental and application changes. However, using a single and static configuration for the application-life eventually leads it to waste or suffer from the lack of resources. Such performance engineering requires expert knowledge and substantial time. In this project, we ask the question: can we use statistical methods to identify the best parameter configuration for a given system?</summary></entry><entry><title type="html">Visicorn</title><link href="http://localhost:4000/visicorn" rel="alternate" type="text/html" title="Visicorn" /><published>2020-11-05T15:21:00-08:00</published><updated>2020-11-05T15:21:00-08:00</updated><id>http://localhost:4000/visicorn</id><content type="html" xml:base="http://localhost:4000/visicorn">&lt;!-- Project Overview section --&gt;
+&lt;div class=&quot;container-fluid bg-gray my-5 py-5&quot;&gt;
+    &lt;div class=&quot;container pt-4&quot;&gt;
+        &lt;h5&gt;Visicorn&lt;/h5&gt;
+        &lt;p&gt;Visicorn is a visualization system that aids in developing inferences about the anomalies triggered by the Unicorn Intrusion Detection System. By encoding vast, graph-structured data in easy-to-understand visualizations, Visicorn assists IT administrators and security analysts in the identification and root-cause analysis of intrusions within their systems. We transform large graphs, graph histograms, and histogram sketches into highly compressed visual representations that highlight when attacks occur in a system, what sorts of unique events or patterns of events co-occur with those attacks, and what later actions appear to be related to a system anomaly or intrusion. Our goal is to connect intrusions to the parts of the operating system that were vulnerable to the attack.&lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- /Project Overview section --&gt;
+&lt;!-- Project Details and Additional Info --&gt;
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h6&gt;Additional Information&lt;/h6&gt;
+        &lt;ol&gt;
+            &lt;li&gt;People: Jude Shamsi&lt;/li&gt;
+            &lt;li&gt;The &lt;a href=&quot;https://systopia.cs.ubc.ca/unicorn&quot;&gt;Unicorn Intrustion Detection System&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;Additional Collaborators: &lt;a href=&quot;https://www.cs.ubc.ca/~tmm/&quot;&gt;Tamara Munzner&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+&lt;/div&gt;
+&lt;!-- /Project Details and Additional Info --&gt;</content><author><name></name></author><category term="provenance" /><category term="security" /><summary type="html">Visicorn Visicorn is a visualization system that aids in developing inferences about the anomalies triggered by the Unicorn Intrusion Detection System. By encoding vast, graph-structured data in easy-to-understand visualizations, Visicorn assists IT administrators and security analysts in the identification and root-cause analysis of intrusions within their systems. We transform large graphs, graph histograms, and histogram sketches into highly compressed visual representations that highlight when attacks occur in a system, what sorts of unique events or patterns of events co-occur with those attacks, and what later actions appear to be related to a system anomaly or intrusion. Our goal is to connect intrusions to the parts of the operating system that were vulnerable to the attack. Additional Information People: Jude Shamsi The Unicorn Intrustion Detection System Additional Collaborators: Tamara Munzner</summary></entry></feed>

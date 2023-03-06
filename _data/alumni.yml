@@ -1,0 +1,55 @@
+# NOTES FOR ALUMNI SECTION
+# To insert line breaks in the "info" section of any individual, place the text in within a " " and insert \n wherever you need a line break.
+
+#FACULTY ALUMNI
+faculty:
+  - name: Santosh Kumar Behera
+    info: District General Secratry
+
+  - name: BibhutiBhusan Padhi
+    info: District Organizing Secretary
+
+# MSC ALUMNI
+mscs:
+  - name: Shiqi He
+    info: 2022
+   
+  - name: Faqia Iqbal
+    info: 2022
+    
+  - name: Lana Sodol
+    info: 2022
+
+# PHD ALUMNI
+phds:
+  - name: Nodir Kodirov
+    info: 2021, Huawei Research
+
+  - name: Patrick Colp
+    info: 2021, Oracle
+
+  - name: Craig Mustard
+    info: 2020, Oracle Labs
+
+# POSTDOC ALUMNI
+postdocs:
+  - name: Mohamad-Jaafar NEHME
+    info: 2022, Huawei
+
+  - name: Adalberto Sampaio Junior
+    info: 2021, Huawei Research
+
+  - name: Jean-Sébastien Légaré
+    info: 2020, Amazon
+
+# VISITING ALUMNI
+visitors: 
+  - name: Fangyu "Gary" Gai
+    info: 2022
+
+  - name: Konstantin Pandl
+    info: 2022, KIT
+
+  - name: Akshitha Sriraman
+    info: 2021, CMU
+

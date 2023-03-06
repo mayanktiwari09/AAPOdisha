@@ -1,0 +1,18 @@
+# IMPORTANT NOTE
+# To add a new image to the carousel, upload the image to the "slides" folder and add the path below.
+
+images: 
+  - image: /assets/images/slides/2.jpeg
+  - image: /assets/images/slides/4.jpeg
+  - image: /assets/images/slides/3.jpeg 
+  - image: /assets/images/slides/1.jpeg
+  #- image: /assets/images/slides/Rose0.jpeg
+  - image: /assets/images/slides/5.jpeg
+  - image: /assets/images/slides/6.jpeg
+  #- image: /assets/images/slides/Sasha.jpeg
+  #- image: /assets/images/slides/AX6.png
+  #- image: /assets/images/slides/AX2.png
+  #- image: /assets/images/slides/AX5.png
+  #- image: /assets/images/slides/standupMar8.jpeg
+  #- image: /assets/images/slides/Langley.jpeg
+  # - image: /assets/images/slides/CSNight1.jpeg
